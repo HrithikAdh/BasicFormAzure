@@ -16,7 +16,6 @@
     "axios": "^1.7.5",
     "expo": "~51.0.28",
     "expo-status-bar": "~1.12.1",
-    "isomorphic-webcrypto": "^2.3.8",
     "mongodb": "^6.8.0",
     "mongoose": "^8.5.4",
     "randombytes": "^2.1.0",
