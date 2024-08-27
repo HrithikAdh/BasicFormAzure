@@ -54,9 +54,10 @@ const ReadReview = ()=>{
 }
 const styles = StyleSheet.create({
     container: {
+      paddingTop:30,
       flex: 1,
       padding: 16,
-      backgroundColor: '#f5f5f5',
+      backgroundColor: '#f4f4f4',
     },
     header: {
       fontSize: 24,

@@ -67,9 +67,10 @@ navigation.push('ReadReview')
         
         const styles = StyleSheet.create({
           container: {
+            paddingTop:30,
             flex: 1,
             padding: 16,
-            backgroundColor: '#f8f9fa',
+            backgroundColor: '#f4f4f4',
           },
           title: {
             fontSize: 24,
